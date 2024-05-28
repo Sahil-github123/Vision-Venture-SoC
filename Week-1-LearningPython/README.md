@@ -5,3 +5,4 @@
 3. https://www.w3schools.com/python/numpy/default.asp
 4. https://www.w3schools.com/python/matplotlib_pyplot.asp
    
+The deadline for week1 assignment is 1st June, EOD.
