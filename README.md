@@ -1,4 +1,5 @@
-# Vision-Venture-SoC
-## Project ID - 183
+# Vision-Venture-SoC (Project ID - 183)
+### Seasons of Code 2024 - Annual flagship event of WnCC.
 
-Seasons of Code 2024 - Annual flagship event of WnCC.
+Hi, myself Sahil R Patil. <br>
+I'm a mentee in this project, which is guided/mentored by Mugdha Bilotia, Anushka Bhoir, and Mahit Gadhiwala. <br>
