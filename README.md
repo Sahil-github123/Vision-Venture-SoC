@@ -2,4 +2,6 @@
 ### Seasons of Code 2024 - Annual flagship event of WnCC.
 
 Hi, myself Sahil R Patil. <br>
-I'm a mentee in this project, which is guided/mentored by Mugdha Bilotia, Anushka Bhoir, and Mahit Gadhiwala. <br>
+I'm a mentee in this project, which is guided/mentored by Mugdha Bilotia, Anushka Bhoir, and Mahit Gadhiwala. <be>
+Ref. - https://github.com/Mugdhaa21/Vision-Venture-SoC
+
