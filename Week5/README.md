@@ -1,0 +1,1 @@
+This week there is a CV2 tutorial, you need to complete it before starting the final assignment.
